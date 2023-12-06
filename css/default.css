@@ -1,0 +1,31 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#left {
+    background-color: aliceblue;
+    width: 35vw;
+    height: 90vh;
+}
+
+#right{
+    background-color: antiquewhite;
+    width: 35vw;
+    height: 90vh;
+}
+
+#right__routine{
+    background-color: aqua;
+    width: 35vw;
+    height: 45vh;
+}
+
+#right__habbit{
+    background-color: aquamarine;
+    width: 35vw;
+    height: 45vh;
+}
